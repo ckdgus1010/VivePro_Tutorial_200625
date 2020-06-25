@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.vivepro_tutorial_200625.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\user\\Documents\\GitHub\\VivePro_Tutorial_200625\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "VivePro_Tutorial_200625 [Testing]"
+        }
+      }
+    }
+  ]
+}
